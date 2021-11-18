@@ -1,0 +1,31 @@
+@font-face {
+  font-family:"Upheaval TT -BRK-" ;
+  src: local("Upheaval TT -BRK-"),
+  url("./font/upheavtt.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.App {
+  overflow: hidden;
+  background-color: black;
+  text-align: center;
+  font-family: "Upheaval TT -BRK-";
+}
+
+.img-thumbnail {
+  background-color: black !important;
+  border: none !important;
+}
+
+.slick-prev, .slick-next {
+  display: none !important
+}
+
+.accordion-button {
+  padding: 2.5rem 2.25rem;
+}
+.accordion-button:not(.collapsed) {
+  box-shadow: none;
+  color: #38C68B;
+}

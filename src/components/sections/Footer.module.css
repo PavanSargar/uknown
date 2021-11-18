@@ -1,0 +1,16 @@
+.container {
+    margin: 7% auto;
+}
+.container h2 {
+    color: white;
+    font-size: 3rem;
+}
+.icons-container {
+    font-size: 3rem;
+}
+.icons-container span {
+    color: #3D9BE9;
+}
+.copyright p {
+    margin-top: 5%;
+}

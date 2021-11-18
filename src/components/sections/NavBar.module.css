@@ -1,0 +1,36 @@
+.brand-text {
+  font-weight: 700;
+}
+.nav-link {
+  margin: 20px;
+  text-align: center;
+  border: 2px solid transparent;
+  border-radius: 1rem;
+}
+
+@media (max-width: 780px) {
+  .brand-logo {
+    height: 100px;
+    width: auto;
+  }
+}
+@media (max-width: 460px) {
+  .brand-logo {
+    height: 80px;
+    width: auto;
+  }
+}
+
+@media (max-width: 388px) {
+  .brand-logo {
+    height: 60px;
+    width: auto;
+  }
+}
+
+@media (max-width: 321px) {
+  .brand-logo {
+    height: 40px;
+    width: auto;
+  }
+}
